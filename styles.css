@@ -1,0 +1,44 @@
+.heading {
+    font-family: 'Wendy One', sans-serif;
+    text-align: center;
+}
+
+.pick {
+    text-align: center;
+
+}
+
+img {
+    height: 150px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.reset-button {
+    display: flex;
+    justify-content: space-around;
+}
+
+.reset {
+    margin: 30px;
+
+}
+
+button {
+    border: 4px black dotted;
+    padding: 10px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+body {
+    background-color: blue;
+}
